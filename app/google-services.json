@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78731367776",
+    "project_id": "cometogether-a9736",
+    "storage_bucket": "cometogether-a9736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78731367776:android:1ca7411967641d9ab8fa05",
+        "android_client_info": {
+          "package_name": "com.cometogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78731367776-627qi8hq2437fcdaffs3k504g5mh23h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDulJvQHQ9G9UpXHso_QIS7YXBQWvvxmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78731367776-627qi8hq2437fcdaffs3k504g5mh23h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
